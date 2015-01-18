@@ -1,2 +1,3 @@
 # quickblog
-A quick blog system written in C#
+# An opensource blog written in Csharp
+
